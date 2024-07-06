@@ -1,0 +1,35 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Royal",
+      "name": "Royaloakap",
+      "avatar_url": "",
+      "profile": "http://royal-api.cc",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Royal",
+      "name": "Royaloak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75489922?v=4",
+      "profile": "https://github.com/Royaloakap",
+      "contributions": [
+        "infra",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "reverse-shell-generator",
+  "projectOwner": "0dayCTF",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
